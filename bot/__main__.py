@@ -86,7 +86,7 @@ else:
 
 print(
     """
-Bot Started: Join @SuraBotStats (https://t.me/SuraBotStats)
+Bot Started: Join @SpEcHlDe (https://tx.me/SpEcHlDe)
     """
 )
 
