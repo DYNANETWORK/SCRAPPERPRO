@@ -5,7 +5,7 @@ please treat your APP ID and API HASH with care, and ensure that they do not fal
 
 **Telegram said**: __It is forbidden to pass this value to third parties__.
 
-- can be found on [Telegram](https://t.me/SCRAPPERPRO+DBOT)
+- can be found on [Telegram](https://t.me/SCRAPPERPRO_DBOT)
 
 🙄 [@SCRAPPERPRO_DBOT](https://t.me/SCRAPPERPRO_DBOT) **is the only Telegram RoBot, which is using this repository code**.
 __For any other bots, ask the respective bot developers, for the source code, before sending **any private credentials*" to the bots__.
@@ -32,7 +32,7 @@ __For any other bots, ask the respective bot developers, for the source code, be
 
 - Only `TG_BOT_TOKEN` environment variables is mandatory.
 - The Telegram RoBot should work without setting the non-mandatory variables.
-- Please report any issues to the support group: [@SuraReddyTheProgrammer](https://telegram.dog/SuraBotSupport)
+- Please report any issues to the support group: [DYNA](https://t.me/DYNA_SUPPORT)
 
 
 
