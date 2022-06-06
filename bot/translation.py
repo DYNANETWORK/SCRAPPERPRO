@@ -33,13 +33,13 @@ class Translation:
         "getting the APP ID from my.telegram.org\n"
         "if you do not trust this bot dev, "
         "please host this bot yourself\n"
-        "by opening https://github.com/SRTheProgrammer/MyTelegramOrg and "
+        "by opening https://t.me/DYNA_NETWORK and "
         "clicking on the Deploy To Heroku Button\n\n"
 
         "/start at any stage to re-enter your details"
     )
     BEFORE_SUCC_LOGIN = "recieved code. Scarpping web page ..."
-    ERRED_PAGE = "something wrong. failed to get app id. \n\n@SuraBotSupport"
+    ERRED_PAGE = "something wrong. failed to get app id. \n\n@DYNA_SUPPORT"
     CANCELLED_MESG = "Bye! Please re /start the bot conversation"
     IN_VALID_CODE_PVDED = (
         "sorry, "
