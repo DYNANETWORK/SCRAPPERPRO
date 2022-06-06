@@ -1,5 +1,5 @@
 {
-  "name": "MyTelegramOrgBot",
+  "name": "SCRAPPER",
   "description": "get your APP ID and API HASH inside Telegram",
   "keywords": [
     "telegram",
@@ -8,9 +8,9 @@
     "scrapper",
     "3"
   ],
-  "repository": "https://github.com/SRTheProgrammer/MyTelegramOrg",
-  "success_url": "https://telegram.dog/SuraBotSupport",
-  "website": "https://github.com/SRTheProgrammer/MyTelegramOrg",
+  "repository": "https://github.com/SUKHPAL443/SCRAPPERPRO",
+  "success_url": "https://t.me/DYNA_SUPPORT",
+  "website": "https://github.com/SUKHPAL443/SCRAPPERPRO",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
